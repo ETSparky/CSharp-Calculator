@@ -1,0 +1,9 @@
+E:\C#\Projects\Calculator\Calculator Project\bin\Debug\Calculator Project.exe.config
+E:\C#\Projects\Calculator\Calculator Project\bin\Debug\Calculator Project.exe
+E:\C#\Projects\Calculator\Calculator Project\bin\Debug\Calculator Project.pdb
+E:\C#\Projects\Calculator\Calculator Project\obj\Debug\Calculator Project.csprojAssemblyReference.cache
+E:\C#\Projects\Calculator\Calculator Project\obj\Debug\Calculator_Project.Form1.resources
+E:\C#\Projects\Calculator\Calculator Project\obj\Debug\Calculator_Project.Properties.Resources.resources
+E:\C#\Projects\Calculator\Calculator Project\obj\Debug\Calculator Project.csproj.GenerateResource.cache
+E:\C#\Projects\Calculator\Calculator Project\obj\Debug\Calculator Project.exe
+E:\C#\Projects\Calculator\Calculator Project\obj\Debug\Calculator Project.pdb
