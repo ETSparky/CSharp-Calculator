@@ -1,2 +1,2 @@
 # CSharp-Calculator
-Basic calculator program to learn some C# basics.
+Calculator program to learn some C# basics.
